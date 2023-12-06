@@ -2,7 +2,7 @@
 
 A Machine Learning Model that automatically decipher the emotional tone in text. By training a model on labeled datasets, the system learns to classify sentiments as positive or a negative.<br>
 To get more accuarcy please download the data set fromt the give google link
-https://drive.google.com/file/d/1KXwrEFZSrSqTFDef6TzNuMrhBoTSgani/view?usp=drive_link
+https://drive.google.com/file/d/1KXwrEFZSrSqTFDef6TzNuMrhBoTSgani/view?usp=drive_link <br>
 To open in web page run app.py (model.pkl,vectorizer,templates file must be there in folder)
 ![Front-end (2)](https://github.com/DhanushB1411/Sentimental-Analysis-using-Machine-Learning/assets/149883392/99c94470-626e-4e35-9607-73fc85748284)
 ![fonr-end(positive review)](https://github.com/DhanushB1411/Sentimental-Analysis-using-Machine-Learning/assets/149883392/fc6dad47-e122-47ff-b4b7-c7067b117c36)
